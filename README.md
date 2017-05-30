@@ -52,3 +52,19 @@
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/pdf/1702.07464.pdf)
+
+
+### Rich Hickey: Simple Made Easy
+
+* [We Really Don't Know How To Compute! by Gerald Sussman](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+* [Epigrams on Programming by Alan Perlis](http://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+* [Polymorphism a la carte](https://stackoverflow.com/questions/13553100/what-is-polymorphism-a-la-carte-and-how-can-i-benefit-from-it)
+* [Erik Meijer's talk](https://www.thestrangeloop.com/2011/category-theory-monads-and-duality-in-big-data.html)
+* [Clojure refs](https://clojure.org/reference/refs)
+* [Linq](https://en.wikipedia.org/wiki/Language_Integrated_Query)
+* [Datalog](https://en.wikipedia.org/wiki/Datalog)
+* [Clojure protocols](https://clojure.org/reference/protocols)
+* [Haskell Type Classes](https://www.haskell.org/tutorial/classes.html)
+* [Prolog](https://en.wikipedia.org/wiki/Prolog)
+* [Constantin Brâncuși](https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i)
+* [Union Type](https://en.wikipedia.org/wiki/Union_type)

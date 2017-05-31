@@ -30,7 +30,7 @@
 
 * [Clojure](https://en.wikipedia.org/wiki/Clojure)
 * [Datomic](https://en.wikipedia.org/wiki/Datomic)
-* [Idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology)
+* [Idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology))
 * [The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)
 * [The Jungle](https://en.wikipedia.org/wiki/The_Jungle)
 * [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)

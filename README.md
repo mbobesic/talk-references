@@ -11,6 +11,21 @@
 * [Size constancy illusion](https://en.wikipedia.org/wiki/Subjective_constancy)
 * [Common Sense by Thomas Paine](https://en.wikipedia.org/wiki/Common_Sense_(pamphlet))
 
+### Bret Victor: Inventing on Principle
+* [Terry Cavanagh](https://en.wikipedia.org/wiki/Terry_Cavanagh_(developer))
+* [Don't Look Back](https://en.wikipedia.org/wiki/Don%27t_Look_Back_(video_game))
+* [VVVVVV](https://en.wikipedia.org/wiki/VVVVVV)
+* [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler)
+* [Gypsy Editor](https://en.wikipedia.org/wiki/Gypsy_(software))
+* [Elizabeth Cady Stanton](https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton)
+* [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
+* [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
+* [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
+* [Jean Piaget](https://en.wikipedia.org/wiki/Jean_Piaget)
+* [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)
+* [Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner)
+* [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+
 ### David Nolen: Idée Fixe
 
 * [Clojure](https://en.wikipedia.org/wiki/Clojure)
@@ -23,6 +38,7 @@
 * [Drawing on the Right Side of the Brain](http://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
 * [The Natural Way to Draw](http://www.goodreads.com/book/show/3061.The_Natural_Way_to_Draw)
 * [La Vie mode d'emploi](https://en.wikipedia.org/wiki/Life_a_User%27s_Manual)
+* [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
 * [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 * [Models - Views - Controllers](https://heim.ifi.uio.no/~trygver/1979/mvc-2/1979-12-MVC.pdf)
 * [React](https://en.wikipedia.org/wiki/React_(JavaScript_library))

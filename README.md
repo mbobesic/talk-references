@@ -45,6 +45,24 @@
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
 * [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)
 
+### Joe Armstrong: The mess we are in
+
+* [Making Money From FP](https://www.youtube.com/watch?v=CVcyA16KWw4)
+* [Grunt](https://gruntjs.com/)
+* [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn)
+* [Kilburn Highest Factor Routine](http://s7.computerhistory.org/is/image/CHM/500004282-03-01?$re-medium$)
+* [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
+* [Black hole computers](https://www.scientificamerican.com/article/black-hole-computers-2007-04/)
+* [Ultimate physical limits to computation](https://arxiv.org/pdf/quant-ph/9908043.pdf)
+* [Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+* [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
+* [Concurrent computing](https://en.wikipedia.org/wiki/Concurrent_computing)
+* [Robert Virding](https://github.com/rvirding)
+* [Byzantine Generals' Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_Generals.27_Problem)
+* [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer))
+* [Kademlia](https://en.wikipedia.org/wiki/Kademlia)
+
 ### Linda Rising: Meeting resistance and moving forward
 
 * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)

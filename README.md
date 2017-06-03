@@ -12,6 +12,7 @@ List of the talks:
 * [Tony Hoare: Null References - The Billion Dollar Mistake](#tony-hoare-null-references---the-billion-dollar-mistake)
 
 ### Alan Kay: Future Doesn't Have to be Incremental
+
 * [Making a Programming Language That Can Think For You 2](https://www.youtube.com/watch?v=JzYmO20N6MY)
 * [PARC (Palo Alto Research Center Incorporated)](https://en.wikipedia.org/wiki/PARC_(company))
 * [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
@@ -21,6 +22,7 @@ List of the talks:
 * [Common Sense by Thomas Paine](https://en.wikipedia.org/wiki/Common_Sense_(pamphlet))
 
 ### Bret Victor: Inventing on Principle
+
 * [Terry Cavanagh](https://en.wikipedia.org/wiki/Terry_Cavanagh_(developer))
 * [Don't Look Back](https://en.wikipedia.org/wiki/Don%27t_Look_Back_(video_game))
 * [VVVVVV](https://en.wikipedia.org/wiki/VVVVVV)
@@ -34,6 +36,37 @@ List of the talks:
 * [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)
 * [Jerome Bruner](https://en.wikipedia.org/wiki/Jerome_Bruner)
 * [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+
+### David Nolen and Michael Bernstein: A History of Programming Languages for 2 Voices
+
+* [From Protesting to Programming: Becoming a Tech Activist](https://www.youtube.com/watch?v=gy82S8tjJX8&t=0s)
+* [An Unsolvable Problem of Elementary Number Theory](http://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf)
+* [Olivier Messiaen](https://en.wikipedia.org/wiki/Olivier_Messiaen)
+* [Pierre Henry](https://en.wikipedia.org/wiki/Pierre_Henry)
+* [John Backus](https://en.wikipedia.org/wiki/John_Backus)
+* [LISP I Programmers Manual](http://kyber.io/rawvids/LISP_I_Programmers_Manual_LISP_I_Programmers_Manual.pdf)
+* [Report on the algorithmic language Algol 60](https://web.eecs.umich.edu/~bchandra/courses/papers/Naure_Algol60.pdf)
+* [Thelonious Monk](https://en.wikipedia.org/wiki/Thelonious_Monk)
+* [Cecil Taylor](https://en.wikipedia.org/wiki/Cecil_Taylor)
+* [Ornette Coleman](https://en.wikipedia.org/wiki/Ornette_Coleman)
+* [Free Jazz](https://en.wikipedia.org/wiki/Free_jazz)
+* [A Manual For Basic](https://www.cs.bris.ac.uk/~dave/basic.pdf)
+* [Martha and the Vandellas](https://en.wikipedia.org/wiki/Martha_and_the_Vandellas)
+* [The Next 700 Programming Languages](http://www.thecorememory.com/Next_700.pdf)
+* [Smalltalk Instruction Manual](http://www.esug.org/data/HistoricalDocuments/Smalltalk72/Smalltalk72Manual.pdf)
+* [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
+* [Prolog](https://en.wikipedia.org/wiki/Prolog)
+* [Alain Colmerauer](https://en.wikipedia.org/wiki/Alain_Colmerauer)
+* [A Divina Comédia ou Ando Meio Desligado](https://en.wikipedia.org/wiki/A_Divina_Com%C3%A9dia_ou_Ando_Meio_Desligado)
+* [Sonny Sharrock](https://en.wikipedia.org/wiki/Sonny_Sharrock)
+* [Miranda: A non-strict functional language with polymorphic types](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.105.6357&rep=rep1&type=pdf)
+* [Erlang The Movie First Page Script](https://pbs.twimg.com/media/CPaUHd2WgAAy_CO.jpg)
+* [James Blood Ulmer](https://en.wikipedia.org/wiki/James_Blood_Ulmer)
+* [Suicide Band](https://en.wikipedia.org/wiki/Suicide_(band))
+* [Planet Rock: The Album](https://en.wikipedia.org/wiki/Planet_Rock:_The_Album)
+* [Noise Music](https://en.wikipedia.org/wiki/Noise_music)
+* [Java Language Specification](https://docs.oracle.com/javase/specs/)
+* [Netscape Navigator 2.0](https://en.wikipedia.org/wiki/Netscape_Navigator_2)
 
 ### David Nolen: Idée Fixe
 

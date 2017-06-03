@@ -85,7 +85,8 @@
 * [As we may think](https://en.wikipedia.org/wiki/As_We_May_Think)
 * Maketo Koike [using tensorflow](https://cloud.google.com/blog/big-data/2016/08/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow) for cucumber farm
 * [Monte Carlo Method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+* [Machine Learning: The High-Interest Credit Card of Technical Debt
+* Null References: The Billion Dollar Mistake](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/pdf/1702.07464.pdf)
 
 
@@ -103,3 +104,20 @@
 * [Prolog](https://en.wikipedia.org/wiki/Prolog)
 * [Constantin Brâncuși](https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i)
 * [Union Type](https://en.wikipedia.org/wiki/Union_type)
+
+### Tony Hoare: Null References - The Billion Dollar Mistake
+
+* Report on the international language ALGOL60
+* [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur)
+* [Spec#](https://en.wikipedia.org/wiki/Spec_Sharp)
+* [Occam](https://en.wikipedia.org/wiki/Occam_(programming_language))
+* [Singularity](https://en.wikipedia.org/wiki/Singularity_(operating_system))
+* [Simula](https://en.wikipedia.org/wiki/Simula)
+* [Doug Ross](https://en.wikipedia.org/wiki/Douglas_T._Ross)
+* [Plex](http://groups.csail.mit.edu/mac/projects/studentaut/The%20Plex%20Tract.htm)
+* [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+* [Unsafe at any speed](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)
+* [Hoare Turing Award Speec](https://notendur.hi.is/hh/kennsla/tfr2/hoare.pdf)
+* [Buffer Overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
+* [Nullable type](https://en.wikipedia.org/wiki/Nullable_type)
+* [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm))

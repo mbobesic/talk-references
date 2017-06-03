@@ -1,4 +1,15 @@
-# Interesting references  mentioned in various talks
+# Interesting references mentioned in various talks
+
+List of the talks: 
+
+* [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesn't-have-to-be-incremental)
+* [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
+* [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
+* [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)
+* [Linda Rising: Meeting resistance and moving forward](#linda-rising-meeting-resistance-and-moving-forward)
+* [Peter Norvig: As we may program](#peter-norvig-as-we-may-program)
+* [Rich Hickey: Simple Made Easy](#rich-hickey-simple-made-easy)
+* [Tony Hoare: Null References - The Billion Dollar Mistake](#tony-hoare-null-references---the-billion-dollar-mistake)
 
 ### Alan Kay: Future Doesn't Have to be Incremental
 * [Making a Programming Language That Can Think For You 2](https://www.youtube.com/watch?v=JzYmO20N6MY)

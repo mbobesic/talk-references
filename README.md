@@ -2,7 +2,7 @@
 
 List of the talks: 
 
-* [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesn't-have-to-be-incremental)
+* [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesnt-have-to-be-incremental)
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
 * [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
 * [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)

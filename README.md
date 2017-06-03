@@ -1,7 +1,5 @@
 # Interesting references  mentioned in various talks
 
-[TOC]
-
 ### Alan Kay: Future Doesn't Have to be Incremental
 * [Making a Programming Language That Can Think For You 2](https://www.youtube.com/watch?v=JzYmO20N6MY)
 * [PARC (Palo Alto Research Center Incorporated)](https://en.wikipedia.org/wiki/PARC_(company))
@@ -57,7 +55,10 @@
 * [Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
 * [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
+* [Programming Erlang](https://pragprog.com/book/jaerlang2/programming-erlang)
 * [Concurrent computing](https://en.wikipedia.org/wiki/Concurrent_computing)
+* [Concurrent programming in Erlang](http://dl.acm.org/citation.cfm?id=229883)
+* [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
 * [Robert Virding](https://github.com/rvirding)
 * [Byzantine Generals' Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_Generals.27_Problem)
 * [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer))

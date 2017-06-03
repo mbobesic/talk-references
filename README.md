@@ -4,6 +4,7 @@ List of the talks:
 
 * [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesnt-have-to-be-incremental)
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
+* [David Nolen and Michael Bernstein: A History of Programming Languages for 2 Voices](#david-nolen-and-michael-bernstein-a-history-of-programming-languages-for-2-voices)
 * [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
 * [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)
 * [Linda Rising: Meeting resistance and moving forward](#linda-rising-meeting-resistance-and-moving-forward)

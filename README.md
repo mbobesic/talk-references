@@ -6,9 +6,11 @@ List of the talks:
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
 * [David Nolen and Michael Bernstein: A History of Programming Languages for 2 Voices](#david-nolen-and-michael-bernstein-a-history-of-programming-languages-for-2-voices)
 * [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
+* [Erik Mejier: One Hacker Way (GOTO 2015)](#erik-mejier-one-hacker-way-(goto-2015))
 * [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)
 * [Linda Rising: Meeting resistance and moving forward](#linda-rising-meeting-resistance-and-moving-forward)
 * [Peter Norvig: As we may program](#peter-norvig-as-we-may-program)
+* [Rich Hickey: Hammock Driven Development](#rich-hickey-hammock-driven-development)
 * [Rich Hickey: Simple Made Easy](#rich-hickey-simple-made-easy)
 * [Tony Hoare: Null References - The Billion Dollar Mistake](#tony-hoare-null-references---the-billion-dollar-mistake)
 

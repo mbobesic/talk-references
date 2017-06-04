@@ -1,6 +1,6 @@
 # Interesting references mentioned in various talks
 
-List of the talks: 
+List of the talks:
 
 * [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesnt-have-to-be-incremental)
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
@@ -134,6 +134,13 @@ List of the talks:
 * Null References: The Billion Dollar Mistake](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/pdf/1702.07464.pdf)
 
+### Rich Hickey: Hammock Driven Development
+
+* [How to solve it](https://en.wikipedia.org/wiki/How_to_Solve_It)
+* [One Ring to Bind Them - Mark McGranaghan](https://www.youtube.com/watch?v=qqNevHwH47w)
+* [ACM](http://dl.acm.org/)
+* [Scientific America - How Snoozing Makes You Smarter](https://www.scientificamerican.com/article/how-snoozing-makes-you-smarter/)
+* [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
 
 ### Rich Hickey: Simple Made Easy
 

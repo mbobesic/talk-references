@@ -24,6 +24,16 @@ List of the talks:
 * [Size constancy illusion](https://en.wikipedia.org/wiki/Subjective_constancy)
 * [Common Sense by Thomas Paine](https://en.wikipedia.org/wiki/Common_Sense_(pamphlet))
 
+### Aysylu Greenberg: Building a Distributed Build System at Google Scale
+
+* [List of build systems](https://en.wikipedia.org/wiki/List_of_build_automation_software#Make-based_tools)
+* [Bazel](https://bazel.build/)
+* BuildRabbit
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE)
+* [Git subtree](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
+* [Travis CI](https://travis-ci.org/)
+* [Perforce](https://www.perforce.com/perforce/doc.current/manuals/intro/01_intro.html)
+
 ### Bret Victor: Inventing on Principle
 
 * [Terry Cavanagh](https://en.wikipedia.org/wiki/Terry_Cavanagh_(developer))

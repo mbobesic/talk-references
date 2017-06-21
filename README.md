@@ -3,10 +3,12 @@
 List of the talks:
 
 * [Alan Kay: Future Doesn't Have to be Incremental](#alan-kay-future-doesnt-have-to-be-incremental)
+* [Aysylu Greenberg: Building a Distributed Build System at Google Scale](#aysylu-greenberg-building-a-distributed-build-system-at-google-scale)
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
 * [David Nolen and Michael Bernstein: A History of Programming Languages for 2 Voices](#david-nolen-and-michael-bernstein-a-history-of-programming-languages-for-2-voices)
 * [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
 * [Erik Mejier: One Hacker Way (GOTO 2015)](#erik-mejier-one-hacker-way-(goto-2015))
+* [Guy Steele: Growing a Language](#guy-steele-growing-a-language)
 * [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)
 * [Linda Rising: Meeting resistance and moving forward](#linda-rising-meeting-resistance-and-moving-forward)
 * [Peter Norvig: As we may program](#peter-norvig-as-we-may-program)

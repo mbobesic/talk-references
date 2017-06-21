@@ -128,6 +128,28 @@ List of the talks:
 * [Hippo Syndrome](http://www.jargondatabase.com/Category/Business/Management-Jargon/HIPPO-Syndrome)
 * [The Curse of the Excluded Middle](http://dl.acm.org/citation.cfm?id=2611829)
 
+### Guy Steele: Growing a Language
+
+* [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+* [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+* [Charles Kay Ogden](https://en.wikipedia.org/wiki/Charles_Kay_Ogden)
+* [Basic English](https://en.wikipedia.org/wiki/Basic_English)
+* [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
+* [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
+* [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+* [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
+* [PL/I](https://en.wikipedia.org/wiki/PL/I)
+* [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks)
+* [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway)
+* [James Gosling](https://en.wikipedia.org/wiki/James_Gosling)
+* [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy)
+* [Dick Gabriel](https://en.wikipedia.org/wiki/Richard_P._Gabriel)
+* [Lisp: Good News, Bad News, How to Win Big](http://dreamsongs.com/WIB.html)
+* [Worse is Better](https://en.wikipedia.org/wiki/Worse_is_better)
+* [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+* [B](https://en.wikipedia.org/wiki/B_(programming_language))
+* [The Elements of Style - Strunk & White](https://en.wikipedia.org/wiki/The_Elements_of_Style)
+
 ### Joe Armstrong: The mess we are in
 
 * [Making Money From FP](https://www.youtube.com/watch?v=CVcyA16KWw4)

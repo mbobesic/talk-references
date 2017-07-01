@@ -14,7 +14,9 @@ List of the talks:
 * [Peter Norvig: As we may program](#peter-norvig-as-we-may-program)
 * [Rich Hickey: Hammock Driven Development](#rich-hickey-hammock-driven-development)
 * [Rich Hickey: Simple Made Easy](#rich-hickey-simple-made-easy)
+* [Stuart Halloway: Clojure in 10 big ideas](#stuart-halloway-clojure-in-10-big-ideas)
 * [Tony Hoare: Null References - The Billion Dollar Mistake](#tony-hoare-null-references---the-billion-dollar-mistake)
+* [William Byrd: The Most Beautiful Program Ever Written](#william-byrd-the-most-beautiful-program-ever-written)
 
 ### Alan Kay: Future Doesn't Have to be Incremental
 

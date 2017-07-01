@@ -221,6 +221,35 @@ List of the talks:
 * [Constantin Brâncuși](https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i)
 * [Union Type](https://en.wikipedia.org/wiki/Union_type)
 
+### Stuart Halloway: Clojure in 10 big ideas
+
+* [Edn](https://github.com/edn-format/edn)
+* [Persistent data structures](https://en.wikipedia.org/wiki/Persistent_data_structure)
+* [Sequences](https://clojure.org/reference/sequences)
+* [Transducers](https://clojure.org/reference/transducers)
+* [Clojure Spec](https://clojure.org/about/spec)
+* [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+* [core.async](https://github.com/clojure/core.async)
+* [Protocols](https://clojure.org/reference/protocols)
+* [Clojurescript](https://clojurescript.org/)
+* [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
+* [STM](https://en.wikipedia.org/wiki/Software_transactional_memory)
+* [Datomic](http://www.datomic.com/)
+* [Datalog](https://en.wikipedia.org/wiki/Datalog)4
+* [clj-xchart](https://github.com/hyPiRion/clj-xchart)
+* [Java shell](http://openjdk.java.net/jeps/222)
+* [Repl debugging](http://blog.cognitect.com/blog/2017/6/5/repl-debugging-no-stacktrace-required)
+* [10000 processes](http://swannodette.github.io/2013/08/02/100000-processes)
+* [Select in Unix](https://en.wikipedia.org/wiki/Select_(Unix))
+* [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* [Google Closure](https://developers.google.com/closure/)
+* [Comparative Literate Programming](http://swannodette.github.io/2013/08/17/comparative)
+* [core.logic](https://github.com/clojure/core.logic)
+* [Cursive](https://cursive-ide.com/)
+* [Leiningen](https://leiningen.org/)
+* [Boot](http://boot-clj.com/)
+* [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
+
 ### Tony Hoare: Null References - The Billion Dollar Mistake
 
 * Report on the international language ALGOL60
@@ -237,3 +266,29 @@ List of the talks:
 * [Buffer Overflow](https://en.wikipedia.org/wiki/Buffer_overflow)
 * [Nullable type](https://en.wikipedia.org/wiki/Nullable_type)
 * [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm))
+
+### William Byrd: The Most Beautiful Program Ever Written
+
+* [The Little Schemer](https://mitpress.mit.edu/books/little-schemer)
+* [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+* [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)
+* [LISP 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf)
+* [Recursive functions of symbolic expressions and their computation by machine, Part I](http://www-formal.stanford.edu/jmc/recursive.pdf)
+* [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
+* [Delimited continuation](https://en.wikipedia.org/wiki/Delimited_continuation)
+* [Lisp as the Maxwell Equations of Software](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+* ["Maxwell's Equations of Software" Examined](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
+* [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai/)
+* [Programming Should Eat Itself](https://www.youtube.com/watch?v=SrKj4hYic5A)
+* [Chez Scheme](https://en.wikipedia.org/wiki/Chez_Scheme)
+* [Lists and Lists by Zarf](http://eblong.com/zarf/if.html#lists)
+* [Z-Machine](https://en.wikipedia.org/wiki/Z-machine)
+* [CONS Should Not Evaluate its Arguments](https://www.cs.indiana.edu/pub/techreports/TR44.pdf)
+* [CONS Should not CONS its Arguments](https://pdfs.semanticscholar.org/4b3f/dd68bbb228ae5d29b2ef2561cb40a006844f.pdf)
+* [Essentials of Programming Languages](http://www.eopl3.com/)
+* [A micro-manual for LISP - not the whole truth](https://github.com/jaseemabid/micromanual)
+* [99 ways to say '(I love you)](http://matt.might.net/articles/i-love-you-in-racket/)
+* [Quine](https://en.wikipedia.org/wiki/Quine_(computing))
+* [Barliman](https://github.com/webyrd/Barliman)
+* [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk)
+* [MiniKanren](https://en.wikipedia.org/wiki/MiniKanren)

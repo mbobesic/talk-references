@@ -7,6 +7,7 @@ List of the talks:
 * [Bret Victor: Inventing on Principle](#bret-victor-inventing-on-principle)
 * [David Nolen and Michael Bernstein: A History of Programming Languages for 2 Voices](#david-nolen-and-michael-bernstein-a-history-of-programming-languages-for-2-voices)
 * [David Nolen: Idée Fixe](#david-nolen-idée-fixe)
+* [David Nolen: Parasitic Programming Languages](#david-nolen-parasitic-programming-languages)
 * [Erik Mejier: One Hacker Way (GOTO 2015)](#erik-mejier-one-hacker-way-(goto-2015))
 * [Guy Steele: Growing a Language](#guy-steele-growing-a-language)
 * [Joe Armstrong: The mess we are in](#joe-armstrong-the-mess-we-are-in)

@@ -140,7 +140,7 @@ List of the talks:
 * [Elixir](https://elixir-lang.org/)
 * [.NET](https://en.wikipedia.org/wiki/.NET_Framework)
 * [F#](http://fsharp.org/)
-* [WebAssembly](http://webassembly.org/)
+* [WebAssembly](http://webassembly.org/+)
 
 ### Erik Mejier: One Hacker Way (GOTO 2015)
 
